@@ -112,8 +112,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:014625_0000_0F94329476DFA738"/>
-            <pb facs="tcp:014625_0001_0F9432954AE93298" rendition="simple:additions"/>
+            <pb facs="unknown:014625_0000_0F94329476DFA738"/>
+            <pb facs="unknown:014625_0001_0F9432954AE93298"
+                rendition="simple:additions"/>
             <p>CALCULATIONS ON AMERICAN POPULATION, WITH A TABLE for estimating the <hi>annual</hi> Increase of INHABITANTS in the British Colonies: The <hi>Manner</hi> of its Construction Explained AND Its <hi>Use</hi> Illustrated.</p>
             <p>BY EDWARD WIGGLESWORTH, M. A. HOLLIS Professor of Divinity at <hi>Cambridge.</hi>
             </p>
@@ -126,7 +127,8 @@
             <p>BOSTON: Printed and Sold by JOHN BOYLE in Marlboro'-Street. MDCCLXXV.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:014625_0002_0F943295F39A5B90" rendition="simple:additions"/>
+            <pb facs="unknown:014625_0002_0F943295F39A5B90"
+                rendition="simple:additions"/>
             <p>TO THE HONORABLE THOMAS CUSHING, Esquire, SPEAKER of the late HOUSE of REPRESENTATIVES Of the Province of the MASSACHUSETTS-BAY: AND One of their DELEGATES at the CONTINENTAL CONGRESS, The following Calculations on <hi>American</hi> POPULATION, Published under his Patronage, Are humbly inscribed, By his obliged Friend And obedient Servant,</p>
             <closer>
                <signed>
@@ -134,7 +136,7 @@
             </closer>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:014625_0003_0F94329CB2E4EA58"/>
+            <pb facs="unknown:014625_0003_0F94329CB2E4EA58"/>
             <p>THE following Calculations were the Employment of some leisure Hours, and designed as a Recreation after Studies of a more serious Nature. They were at first undertaken for pri<g ref="char:EOLhyphen"/>vate Gratification. They are now made public, at the Recom<g ref="char:EOLhyphen"/>mendation of some Friends, to whom they were communicated in Manuscript.</p>
             <closer>
                <dateline>
@@ -147,17 +149,17 @@
       </front>
       <body>
          <div type="text">
-            <pb facs="tcp:014625_0004_0F94329CD7542B00"/>
+            <pb facs="unknown:014625_0004_0F94329CD7542B00"/>
             <head>CALCULATIONS ON AMERICAN POPULATION.</head>
             <p>FROM a comparison of the most au<g ref="char:EOLhyphen"/>thentic estimates of the inhabitants in the several <hi>British</hi> colonies in <hi>America,</hi> taken at different times, it appears that the British Americans have <hi>doubled</hi> their num<g ref="char:EOLhyphen"/>bers, in every period of twenty-five years from their first plantation. A rapidity of popula<g ref="char:EOLhyphen"/>tion not to be parallaled in the annals of Eu<g ref="char:EOLhyphen"/>rope! It has never been equalled since the patriarchal ages. This rapid population of the Americans arises, partly from the great accession of foreigners, but principally from the natural increase of the inhabitants. The reasons, why the Americans are more prolific than the Europeans, are, that they are less luxurious in their manner of living, and the means of supporting a family can be more
-<pb n="6" facs="tcp:014625_0005_0F94329E31380960"/>
+<pb n="6" facs="unknown:014625_0005_0F94329E31380960"/>
 easily obtained. For the last reason the A<g ref="char:EOLhyphen"/>mericans are induced to marry earlier in life, and consequently their families of children are more numerous. And their temperance in diet renders them more healthy. The ease of procuring subsistence for a family is occasion<g ref="char:EOLhyphen"/>ed by the boundless tracts of uncultivated fo<g ref="char:EOLhyphen"/>rests, bordering on their plantations. For e<g ref="char:EOLhyphen"/>very new-married couple can, at small ex<g ref="char:EOLhyphen"/>pence, purchase a freehold; which by their industry, will afford them and their children a comfortable support.</p>
             <p>TILL the wilderness back of the old plan<g ref="char:EOLhyphen"/>tations shall be filled with inhabitants, and brought under as good cultivation as the settle<g ref="char:EOLhyphen"/>ments on the sea-coast, it may be presumed that the <hi>future</hi> population of these colonies will be as rapid as the <hi>past.</hi> By an estimate made, at the late CONTINENTAL CONGRESS, of the number of persons in eleven of the colonies, it appears that there are 3,026678 souls, inhabiting those colonies. Allowing that there are 526678 slaves, which allowance is probably larger than ought to be made, there are 2,500000 British Americans, which may be reckoned as a CAPTIAL STOCK, on which a calculation may be made of their future population. Should nothing intervene to re<g ref="char:EOLhyphen"/>tard
-<pb n="7" facs="tcp:014625_0006_0F94329E58DFA148"/>
+<pb n="7" facs="unknown:014625_0006_0F94329E58DFA148"/>
 their increase, the Americans will be more numerous than their brethren in Bri<g ref="char:EOLhyphen"/>tain, in half a century from the present time: And in less than seventy years, their numbers will exceed those of the inhabitants of Great-Britain and Ireland, taken collectively.—Hap<g ref="char:EOLhyphen"/>py had it been for America, if its present con<g ref="char:EOLhyphen"/>test with the parent state had been postponed to the middle of the next century! And more happy still had it always slept in silence! Britain and America might always have been subservient to each others prosperity and hap<g ref="char:EOLhyphen"/>piness; and have formed one of the most po<g ref="char:EOLhyphen"/>pulous, potent, wealthy and happy kingdoms that ever existed.</p>
             <p>UPON the same principles that Mr. WARD has constructed a table to compute the com<g ref="char:EOLhyphen"/>pound interest on any sum of money for the component parts of a year, a table may be formed to compute the number of inhabitants in any American colony for any given year.— Let 1 represent the present number of in<g ref="char:EOLhyphen"/>habitants, and <hi>a</hi> the number at the begin<g ref="char:EOLhyphen"/>ning of the next year. Then it will be as 1: <hi>a:: a: a2</hi>:: <hi>a2</hi>: <hi>a3</hi>:: <hi>a3</hi>: <hi>a4</hi> ∺ to <hi>a25.</hi> That is, As the present number of inha<g ref="char:EOLhyphen"/>bitants is to the number of the second year, so is that number to the number of the third year, and so on in the same proportion to the twenty-fifth year.</p>
             <p>
-               <pb n="8" facs="tcp:014625_0007_0F94329F014E07B8"/>THEN the last of the terms will be <hi>a25.</hi> = 2.</p>
+               <pb n="8" facs="unknown:014625_0007_0F94329F014E07B8"/>THEN the last of the terms will be <hi>a25.</hi> = 2.</p>
             <p>To find the value of <hi>a,</hi>
                <gap reason="math">
                   <desc>〈 math 〉</desc>
@@ -173,7 +175,7 @@ their increase, the Americans will be more numerous than their brethren in Bri<g
             </p>
             <p>
                <pb n="9"
-                   facs="tcp:014625_0008_0F94329FB919C858"
+                   facs="unknown:014625_0008_0F94329FB919C858"
                    rendition="simple:additions"/>The Operation. <gap reason="math">
                   <desc>〈 math 〉</desc>
                </gap>
@@ -181,18 +183,18 @@ their increase, the Americans will be more numerous than their brethren in Bri<g
             <p>BY this operation we find the value of <hi>a</hi> true to the 9th figure, and only too much by 2 in the 10th. — And by involving the value of <hi>a</hi> to its 25th power, we have the amount of unity to the 25th year; the index of the power, denoting the particular year. If there<g ref="char:EOLhyphen"/>fore the number, corresponding to any parti<g ref="char:EOLhyphen"/>cular power of <hi>a,</hi> be multiplied into the pre<g ref="char:EOLhyphen"/>sent number of inhabitants, either of any one of the British American colonies, or of the whole continent, the product will be the amount of inhabitants of that colony, or of the continent, for the year denoted by the index of the power of <hi>a.</hi>
             </p>
             <p>
-               <pb n="10" facs="tcp:014625_0009_0F9432A07B6DAF20"/>THE ratio of annual increase may be found, and a table constructed for estimating the an<g ref="char:EOLhyphen"/>nual amount of the Americans, by a process less operose and equally exact. The pro<g ref="char:EOLhyphen"/>cess is this: Take the logarithm of 2 = <hi>a25</hi> from any table that will afford a sufficient num<g ref="char:EOLhyphen"/>ber of figures for the proposed calculation; di<g ref="char:EOLhyphen"/>vide it by 25 the index of <hi>a,</hi> and the quotient will be the logarithm of <hi>a.</hi> This last logari<g ref="char:EOLhyphen"/>thm being multiplied by 2, 3, 4, 5, &amp;c. to 24 will give the logarithms of the intermediate powers of <hi>a</hi>; the several multiplicators being the indices of their respective powers. Find the natural number corresponding to each of these logarithms, and it will be the amount of unity from the 1st to the 25th year inclusively.</p>
+               <pb n="10" facs="unknown:014625_0009_0F9432A07B6DAF20"/>THE ratio of annual increase may be found, and a table constructed for estimating the an<g ref="char:EOLhyphen"/>nual amount of the Americans, by a process less operose and equally exact. The pro<g ref="char:EOLhyphen"/>cess is this: Take the logarithm of 2 = <hi>a25</hi> from any table that will afford a sufficient num<g ref="char:EOLhyphen"/>ber of figures for the proposed calculation; di<g ref="char:EOLhyphen"/>vide it by 25 the index of <hi>a,</hi> and the quotient will be the logarithm of <hi>a.</hi> This last logari<g ref="char:EOLhyphen"/>thm being multiplied by 2, 3, 4, 5, &amp;c. to 24 will give the logarithms of the intermediate powers of <hi>a</hi>; the several multiplicators being the indices of their respective powers. Find the natural number corresponding to each of these logarithms, and it will be the amount of unity from the 1st to the 25th year inclusively.</p>
             <p>THE following table was constructed, by ascertaining the ratio of the annual increase of the British Americans, according to the me<g ref="char:EOLhyphen"/>thod, of solving <hi>adfected</hi> equations. But in this method, where the quantities are <hi>surd,</hi> there will always be a <hi>defect,</hi> or <hi>excess,</hi> in the roots found. The error will increase at every invo<g ref="char:EOLhyphen"/>lution, and be proportionate to its power. In the process the value of <hi>a</hi> was taken true to seven figures, but was too little by about 4/10 in the eight. When this number was involv<g ref="char:EOLhyphen"/>ed
-<pb n="11" facs="tcp:014625_0010_0F9432A13A708A70"/>
+<pb n="11" facs="unknown:014625_0010_0F9432A13A708A70"/>
 to its 25th power, it discovered itself, in the last operation, to be, 000019 less than just; and consequently that there was a proportio<g ref="char:EOLhyphen"/>nable defect in each involution. The <hi>excess</hi> or <hi>defect</hi> arising from the involution of a root <hi>greater</hi> or <hi>less</hi> than just, may be corrected by the following proportion. As the value found of <hi>a25</hi>: to its <hi>excess</hi> or <hi>defect</hi>:: the value found of any other power: to the <hi>excess</hi> or <hi>defect</hi> of that power. And the several <hi>defects</hi> being added to, or the several <hi>excesses</hi> being substrac<g ref="char:EOLhyphen"/>ted from, the numbers first found, will be the value of the several powers of <hi>a,</hi> so near the truth as to answer all the purposes of a calculation of this kind.—But the small er<g ref="char:EOLhyphen"/>ror noticed above was corrected by taking the logarithm of 2 from Mr. <hi>Briggs</hi>'s table, and ascertaining the value of the several powers of <hi>a,</hi> in the method already notice. By his ta<g ref="char:EOLhyphen"/>ble the annual amount of unity may be taken true to nine places of decimals, which is a greater degree of exactness than the proposed plan required. For this reason eight decimals only were taken into the calculation. And therefore by multiplying the inhabitants by the numbers in the table, we have their amount for each year, without any error, where they are less than 10,000 000: A degree of exact<g ref="char:EOLhyphen"/>ness, sufficient for any calculation of this kind.</p>
             <p>
                <pb n="12"
-                   facs="tcp:014625_0011_0F9432A39F88E810"
+                   facs="unknown:014625_0011_0F9432A39F88E810"
                    rendition="simple:additions"/>AT the CONTINENTAL CONGRESS held at <hi>Philadelphia</hi> the last autumn, an estimate was made, as has been noticed already, of the number of souls in the provinces specified.— The publisher has not informed his readers whether it includes <hi>slaves,</hi> (for to the disgrace of America SLAVERY <note n="¶" place="bottom">Professor MILLAR in his curious <hi>observations on the distinction of ranks in society</hi>; having spoken of "the slavery established in our colonies," and hinted at some improvements which would render that state less intolerable, concludes with the following remark.
 <q>Nothing can appear more astonishing than the little attention that has hitherto been paid to any im<g ref="char:EOLhyphen"/>provements of this nature, after the <hi>good effects</hi> of them have been so FULLY ILLUSTRATED in the case of the villains in Europe. At the same time it affords a curious spectacle to observe, that the <hi>same people</hi> who talk in so high a strain of <hi>political liberty,</hi> and who consider the <hi>privilege of imposing their own taxes</hi> as one of the <hi>unalienable rights of mankind,</hi> should make no scruple of reducing a great propor<g ref="char:EOLhyphen"/>tion of the inhabitants into circumstances by which they are not only <hi>deprived of property,</hi> but almost EVERY RIGHT whatever. Fortune perhaps never produced a situation more calculated to ridicule a grave, and even a liberal hypothesis, or to show how little the conduct of mankind is at bottom directed by any philosophical principle.</q>
 —Is it not right, O ye Americans! that with what measure ye meet, it should be measured to you again? Happy would it be for America, if the conduct of every ad<g ref="char:EOLhyphen"/>vocate for its political rights, was a just commentary on his principles.</note> still prevails here) as well as freemen. It is to be regreted that the publisher has not been more particular in his account of the estimate. For if the num<g ref="char:EOLhyphen"/>bers in it are expressive of freemen only, we have a foundation on which we may with safety build a calculation. But if <hi>slaves</hi> are
 <pb n="13"
-                   facs="tcp:014625_0012_0F9432A5269286E8"
+                   facs="unknown:014625_0012_0F9432A5269286E8"
                    rendition="simple:additions"/>
 included in the number of souls in the several provinces, they must first be deducted, before we can proceed to make a computation of their future population with accuracy. For the Negro-slaves are so far from increasing by propagation, that it requires a large annual importation from Africa to keep the stock good.</p>
             <list>
@@ -222,7 +224,7 @@ included in the number of souls in the several provinces, they must first be ded
                <item>3,026,678</item>
             </list>
             <p>
-               <pb n="14" facs="tcp:014625_0013_0F9432A5BA1C9640"/>
+               <pb n="14" facs="unknown:014625_0013_0F9432A5BA1C9640"/>
                <table>
                   <head>THE TABLE.</head>
                   <row>
@@ -343,7 +345,7 @@ included in the number of souls in the several provinces, they must first be ded
                <head>RULE I.</head>
                <p>DEDUCT the present year 1775, from the year whose inhabitants are re<g ref="char:EOLhyphen"/>quired, and if the differ<g ref="char:EOLhyphen"/>ence is less than 25, then the present number of in<g ref="char:EOLhyphen"/>habitants must be multi<g ref="char:EOLhyphen"/>plied by the figures cor<g ref="char:EOLhyphen"/>responding to the num<g ref="char:EOLhyphen"/>ber equal to such differ<g ref="char:EOLhyphen"/>ence. The product will be the number required, and its decimal parts. Reject the eight right-hand figures, and the re<g ref="char:EOLhyphen"/>maining left-hand figures will be the number of inhabitants for the year required.</p>
                <div n="1" type="example">
-                  <pb n="15" facs="tcp:014625_0014_0F9432A9437CB340"/>
+                  <pb n="15" facs="unknown:014625_0014_0F9432A9437CB340"/>
                   <head>EXAMPLE I.</head>
                   <p>WHAT will be the number of inhabitants in the Massachusetts-Bay A. D. 1793?</p>
                   <p>DEDUCT 1775 from 1793. The difference is 18, which being less than 25, the present number of inhabitants must be multiplied by the figures in the table corresponding to 18.— The inhabitants are 400000, which multiplied by 1,64718203, the product will be 658872, 81200000. Cut off 8 figures on the right<g ref="char:EOLhyphen"/>hand; and the remaining figures on the left 658872 will be the number of inhabitants in the year 1793.</p>
@@ -353,7 +355,7 @@ included in the number of souls in the several provinces, they must first be ded
             <div n="2" type="rule">
                <head>RULE II.</head>
                <p>DIVIDE the difference by 25, then double the present number of inhabitants as many times as there are units in the quotient. Multiply the product of the number so doub<g ref="char:EOLhyphen"/>led by the figures in the table correspondent to the remainder. Reject from the product
-<pb n="16" facs="tcp:014625_0015_0F9432A9AAD23820"/>
+<pb n="16" facs="unknown:014625_0015_0F9432A9AAD23820"/>
 the eight right-hand figures, and the figures on the left will be the number sought.</p>
                <div n="2" type="example">
                   <head>EXAMPLE II.</head>
@@ -365,7 +367,7 @@ the eight right-hand figures, and the figures on the left will be the number sou
                <head>RULE III.</head>
                <p>FIND the number of inhabitants at the be<g ref="char:EOLhyphen"/>gining of the year by the 1st or 2d rule. Mul<g ref="char:EOLhyphen"/>tiply the number so found by the decimals in the first line of figures in the table. Reject 8 figures on the right-hand, and those that are left will give the answer.</p>
                <div n="3" type="example">
-                  <pb n="17" facs="tcp:014625_0016_0F9432AA697C73F0"/>
+                  <pb n="17" facs="unknown:014625_0016_0F9432AA697C73F0"/>
                   <head>EXAMPLE III.</head>
                   <p>WHAT will be the increase of the British Americans, A. D. 1890?</p>
                   <p>BY the last example their number at the be<g ref="char:EOLhyphen"/>ginning of that year is found to be 36,377197. Multiply this number by 0,02811382, the de<g ref="char:EOLhyphen"/>cimals in the first line of figures in the table, and the product will be, 1022701,96856254. Reject the decimals on the right-hand, and the integers will be the answer to the question, viz. 1,022701 is the addition that will be made to the British Americans in the year 1890; supposing them to be no more than one million and an half at present.</p>
@@ -380,7 +382,7 @@ the eight right-hand figures, and the figures on the left will be the number sou
                   <p>HOW many will the inhabitants of the Mas<g ref="char:EOLhyphen"/>sachusetts colony increase by the year 1793?
 <list>
                         <pb n="18"
-                            facs="tcp:014625_0017_0F9432AD6B19BCB8"
+                            facs="unknown:014625_0017_0F9432AD6B19BCB8"
                             rendition="simple:additions"/>
                         <label>Their number in 1793 will be</label>
                         <item>658872.</item>
@@ -400,7 +402,7 @@ will be the increase at that time.</p>
                      <desc>〈◊〉</desc>
                   </gap> 25. And one half the present inhabitants of the colony must be multiplied by the num<g ref="char:EOLhyphen"/>bers in the table corresponding to the remain<g ref="char:EOLhyphen"/>der. The integers in the product will give the number of inhabitants for the year required.</p>
                <div n="5" type="example">
-                  <pb n="19" facs="tcp:014625_0018_0F9432ADFA9763C0"/>
+                  <pb n="19" facs="unknown:014625_0018_0F9432ADFA9763C0"/>
                   <head>EXAMPLE V.</head>
                   <p>WHAT was the number of inhabitants, A. D. 1758, in the Massachusetts?</p>
                   <p>THE difference of years is 17, this deducted from 25, leaves 8. One half of the present inhabitants is 200,000. This number mul<g ref="char:EOLhyphen"/>tiplied by 1,24833054, the figures in the table corresponding to 8, the remainder, will give 249666,10800000. Rejecting the decimals, the answer is, the Massachusetts inhahitants were A. D. 1758, 249666 persons.</p>
@@ -414,7 +416,7 @@ will be the increase at that time.</p>
                   <head>EXAMPLE VI.</head>
                   <p>WHAT was the number of Americans, 1710?</p>
                   <p>
-                     <pb n="20" facs="tcp:014625_0019_0F9432AEB6435B80"/>THE difference of years is 65. This num<g ref="char:EOLhyphen"/>ber divided by 25 gives 2 for the quotient, and 15 for the remainder. One half of the present number of Americans is, 1,250000. This number depressed, by being twice divi<g ref="char:EOLhyphen"/>ded by 2, will give 312,500, which multi<g ref="char:EOLhyphen"/>plied by the figures in the table answering to 10, (which is the difference between 25 and 15, the remainder,) 1,31950791 will make 412346,22187500. Reject the decimals, which will give the answer. The number of Americans A. D. 1710, was 412346.</p>
+                     <pb n="20" facs="unknown:014625_0019_0F9432AEB6435B80"/>THE difference of years is 65. This num<g ref="char:EOLhyphen"/>ber divided by 25 gives 2 for the quotient, and 15 for the remainder. One half of the present number of Americans is, 1,250000. This number depressed, by being twice divi<g ref="char:EOLhyphen"/>ded by 2, will give 312,500, which multi<g ref="char:EOLhyphen"/>plied by the figures in the table answering to 10, (which is the difference between 25 and 15, the remainder,) 1,31950791 will make 412346,22187500. Reject the decimals, which will give the answer. The number of Americans A. D. 1710, was 412346.</p>
                   <p>SHOULD the proportion be sought, which the posterity of the first settlers of any colony bear to the whole inhabitants of it at present, it may be ascertained in the following method, supposing them to double by <hi>natural</hi> increase in twenty-five years.</p>
                </div>
             </div>
@@ -422,7 +424,7 @@ will be the increase at that time.</p>
                <head>RULE VII.</head>
                <p>DEDUCT the year of the settlement of the colony from the present year. Divide the dif<g ref="char:EOLhyphen"/>ference of years by 2. Then multiply the origi<g ref="char:EOLhyphen"/>nal settlers by 2, as many times as there are units in the quotient. The number thus encreased, multiply by the figures in the table, answer<g ref="char:EOLhyphen"/>ing to the remainder. The product, when the decimals are rejected, will give the present number of the posterity of the original set<g ref="char:EOLhyphen"/>tlers. And the proportion which they bear
 <pb n="21"
-                      facs="tcp:014625_0020_0F9432B2A6EA3050"
+                      facs="unknown:014625_0020_0F9432B2A6EA3050"
                       rendition="simple:additions"/>
 to the whole, will be as that number is to the number of the whole.</p>
                <div n="7" type="example">
@@ -433,7 +435,7 @@ to the whole, will be as that number is to the number of the whole.</p>
                            <desc>••</desc>
                         </gap>.</note> The difference between that and the present year is 145. This number divided by 25, gives 5 for the quotient, and 20 for the remain<g ref="char:EOLhyphen"/>der. 5000 redoubled 5 times makes 160000. This number multiplied by 1,74110112, the figures in the table corresponding to 20, the remainder, will give 278576,17920000. The descendants, then, from the original settlers are, on the supposition made, 278576; and they are in proportion to the whole inhabitants, as 278576 is to 400000.</p>
                   <p>BY doubling the present number of Ame<g ref="char:EOLhyphen"/>ricans nine times, the number of them will be
-<pb n="22" facs="tcp:014625_0021_0F9432B4D26317A0"/>
+<pb n="22" facs="unknown:014625_0021_0F9432B4D26317A0"/>
 found for every twenty fifth year to the end of the twentieth century. And each of these duplications, being multiplied by the several lines of figures in the table, will give the amount of the Americans in the intermediate years.— Their present number being estimated at two millions and an half, their duplications will be as follows,
 <list>
                         <item>A. 1800—5 Millions.</item>
@@ -450,7 +452,7 @@ found for every twenty fifth year to the end of the twentieth century. And each 
                   <p>A CAREFUL attention to the preceeding rules and examples, will be sufficient, without any more illustrations, to lead to the know<g ref="char:EOLhyphen"/>lege of the various purposes to which the ta<g ref="char:EOLhyphen"/>ble may be applied.</p>
                   <p>WHEN we look back to the state of the co<g ref="char:EOLhyphen"/>lonies at the middle of the last century, and compare it with the present, we are surprised to find that our ancestors, amidst all the diffi<g ref="char:EOLhyphen"/>culties they had to encounter, have been able in so short a period to put a face entirely new on all the country extended from Nova-Scotia to Georgia, by changing the forest into a fruitful field; that they have opened such an extensive commerce, as is carried on from A<g ref="char:EOLhyphen"/>merica; and that by their cultivation of the
 <pb n="23"
-                         facs="tcp:014625_0022_0F9432B5C7E4FB18"
+                         facs="unknown:014625_0022_0F9432B5C7E4FB18"
                          rendition="simple:additions"/>
 liberal arts, they have left a posterity of two millions and a half, <note n="§" place="bottom">FIVE millions, according to the estimate of—Dr. <hi>Price</hi>
                         <q>and our best modern calculators, is nearest to the true number of the people of England. The males between sixteen and fifty-six in five millions are 1,250 000, or a fourth part of the whole.</q>
@@ -458,7 +460,7 @@ liberal arts, they have left a posterity of two millions and a half, <note n="§
 <q>In North-Britain the number of souls is about 1,500,000. The males between sixteen and fifty-six are 300,000.</q>
                         <bibl>
                            <hi>Political disquisitions</hi> Vol. I. page 36, 46.</bibl>—If the Doctor's proportion is just, the number of males in America between sixteen and fifty-six is 625,000.—The increase of Americans the present year, is 70,284. One fourth part of them are males between sixteen and fifty-six. There are then 17,571, effective men added to the Americans the pre<g ref="char:EOLhyphen"/>sent year. Lord <hi>Barrington</hi> moved in the House of Commons, that 17,542 effective men be employed for the land service this year.</note> enjoying all the necessa<g ref="char:EOLhyphen"/>ries, and most of the elegancies of life. A rapidity of population and improvement, that fills the mind with admiration! But to anti<g ref="char:EOLhyphen"/>cipate their population and improvements, at the close of the twentieth century, overwhelms the mind with astonishment! At that time, should their future population be as rapid as their past, the Americans would amount to ONE THOUSAND TWO-HUNDRED AND EIGHTY MILLIONS! The continent extending back to the south-sea, affording them new plantations; and the diversity of climates and soils, invi<g ref="char:EOLhyphen"/>ting
-<pb n="24" facs="tcp:014625_0023_0F9432B64AE97CD0"/>
+<pb n="24" facs="unknown:014625_0023_0F9432B64AE97CD0"/>
 the introduction of all the various produc<g ref="char:EOLhyphen"/>tions of the other quarters of the world.</p>
                   <p>SHOULD a system of policy be adopted to conciliate the affections of the Americans, what an amazing source of commerce will be opened to Great Britain? To what limits will the demand for British manufactures be ex<g ref="char:EOLhyphen"/>tended, while the Americans are busily em<g ref="char:EOLhyphen"/>ployed in subduing the wilderness? And should Britain continue to encourage the cul<g ref="char:EOLhyphen"/>tivation of those materials of commerce, for which she has been dependent on foreign nations, to what a state of independence may she arise?</p>
                   <p>THAT the present unhappy contest between Britain and America, may be amicably termi<g ref="char:EOLhyphen"/>nated; that the extent of parliamentary autho<g ref="char:EOLhyphen"/>rity may be ascertained; and that the rights of America may be fixed on an immoveable foundation, are the earnest desires of every true friend of Britain and America. Should this ever be the case, such an union of interest and affection would succeed, as would render them the envy of <hi>Europe</hi> and the glory of the WORLD.</p>
